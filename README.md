@@ -1,3 +1,3 @@
 🛡️ Anomaly Detection System for Access Logs
 A machine learning–based cybersecurity project that detects suspicious user activity from access-log data. 🔍 It generates and processes log records, builds entity-level baseline profiles, engineers behavioral features, assigns risk scores, and evaluates detection performance using metrics and visual reports such as ROC curves, precision-recall curves, and confusion matrices. 📊  
-🚀 I developed this project after receiving the opportunity to participate in Honeywell Round 2, following successful clearance of the Online Assessment (OA) round. 🎯
+🚀 I developed this project after receiving the opportunity to participate in Honeywell Hackathon Round 2, following successful clearance of the Online Assessment (OA) round. 🎯
