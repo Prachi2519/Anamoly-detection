@@ -1,0 +1,9 @@
+{
+  "holdout_events": 1046,
+  "anomaly_events_in_holdout": 118,
+  "precision": 0.9355,
+  "recall": 0.9831,
+  "f1_score": 0.9587,
+  "roc_auc": 0.9992,
+  "alert_rate": 0.1185
+}

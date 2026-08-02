@@ -1,0 +1,66 @@
+entity_id,baseline_event_count,baseline_median_hour,baseline_hour_std,baseline_median_bytes,known_locations,known_resources,known_fingerprints
+device_056,26,17.0,1.35,272444.0,"Delhi, IN",device_health | sensor_stream | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_057,29,14.0,1.5,276069.0,"New York, US",device_health | firmware_status | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_058,28,14.0,1.29,284501.5,"Bengaluru, IN",device_health | sensor_stream | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_059,21,18.0,1.4,260774.0,"New York, US",device_health | firmware_status | sensor_stream,IoT-Linux-5.10|MQTT|device
+device_060,26,13.0,1.56,291826.0,"Singapore, SG",device_health | firmware_status | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_061,31,17.0,1.25,161843.0,"Delhi, IN",firmware_status | sensor_stream | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_062,29,17.0,1.21,231842.0,"Singapore, SG",device_health | firmware_status | telemetry_endpoint,IoT-Linux-5.10|MQTT|device
+device_063,27,10.0,1.39,310705.0,"Tokyo, JP",device_health | firmware_status | sensor_stream,IoT-Linux-5.10|MQTT|device
+device_064,24,11.0,1.57,232366.5,"Hyderabad, IN",device_health | sensor_stream | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+device_065,26,19.0,1.44,292125.0,"Singapore, SG",firmware_status | sensor_stream | telemetry_endpoint,EdgeOS-3.2|HTTPS|device
+svc_046,25,18.0,1.41,277794.0,"Delhi, IN",api_gateway | backup_service | database_read,Linux-Server|service-agent
+svc_047,29,9.0,1.4,241507.0,"Bengaluru, IN",backup_service | database_read | telemetry_queue,Linux-Server|service-agent
+svc_048,27,17.0,1.13,272207.0,"New York, US",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+svc_049,25,9.0,1.63,231462.0,"New York, US",api_gateway | backup_service | database_read,Linux-Server|service-agent
+svc_050,23,16.0,1.68,205191.0,"New York, US",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+svc_051,28,14.0,1.64,308981.0,"Delhi, IN",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+svc_052,31,10.0,1.33,216881.0,"London, UK",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+svc_053,25,11.0,1.33,167330.0,"Hyderabad, IN",api_gateway | backup_service | database_read,Linux-Server|service-agent
+svc_054,32,8.0,1.27,255703.5,"Hyderabad, IN",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+svc_055,23,13.0,1.73,268938.0,"London, UK",api_gateway | database_read | telemetry_queue,Linux-Server|service-agent
+user_001,29,11.0,1.62,187431.0,"Hyderabad, IN",analytics_dashboard | crm | employee_portal,Windows-11|Edge|managed
+user_002,30,8.0,1.05,238564.0,"Bengaluru, IN",analytics_dashboard | crm | employee_portal,Windows-11|Edge|managed
+user_003,32,12.0,1.49,236802.5,"Singapore, SG",analytics_dashboard | crm | employee_portal,Windows-11|Chrome|managed
+user_004,29,12.0,1.54,212591.0,"New York, US",crm | email | employee_portal,Windows-11|Edge|managed
+user_005,29,12.0,1.71,291066.0,"Mumbai, IN",crm | employee_portal | project_share,Windows-11|Edge|managed
+user_006,29,14.0,1.24,272796.0,"Mumbai, IN",analytics_dashboard | crm | employee_portal,Windows-11|Edge|managed
+user_007,27,8.0,1.44,236586.0,"Mumbai, IN",analytics_dashboard | crm | project_share,Windows-11|Chrome|managed
+user_008,29,12.0,1.05,299824.0,"Singapore, SG",crm | employee_portal | project_share,Windows-11|Chrome|managed
+user_009,28,18.0,1.29,295664.0,"Hyderabad, IN",crm | email | project_share,Windows-11|Edge|managed
+user_010,28,10.0,1.38,229630.5,"Hyderabad, IN",crm | email | employee_portal,macOS-15|Chrome|managed
+user_011,30,11.0,1.54,305414.0,"Bengaluru, IN",analytics_dashboard | crm | email,Windows-11|Edge|managed
+user_012,23,17.0,1.55,302293.0,"Hyderabad, IN",crm | email | project_share,Windows-11|Chrome|managed
+user_013,26,10.0,1.41,222700.0,"Tokyo, JP",analytics_dashboard | email | finance_share | hr_records | project_share,macOS-15|Chrome|managed
+user_014,29,17.0,1.25,271097.0,"Singapore, SG",analytics_dashboard | crm | project_share,macOS-15|Chrome|managed
+user_015,29,10.0,1.4,195688.0,"Mumbai, IN",email | employee_portal | project_share,Windows-11|Chrome|managed
+user_016,25,16.0,1.16,222219.0,"Tokyo, JP",email | employee_portal | project_share,Windows-11|Edge|managed
+user_017,25,18.0,1.57,227777.0,"London, UK",analytics_dashboard | crm | employee_portal,macOS-15|Chrome|managed
+user_018,29,16.0,1.7,286823.0,"London, UK",analytics_dashboard | email | project_share,Windows-11|Chrome|managed
+user_019,27,10.0,1.4,242020.0,"Hyderabad, IN",crm | employee_portal | project_share,macOS-15|Chrome|managed
+user_020,34,8.0,1.68,271694.0,"Tokyo, JP",analytics_dashboard | crm | employee_portal,Windows-11|Edge|managed
+user_021,32,8.0,1.47,232105.0,"Mumbai, IN",crm | email | employee_portal,Windows-11|Chrome|managed
+user_022,25,16.0,1.44,307973.0,"Tokyo, JP",analytics_dashboard | email | employee_portal,macOS-15|Chrome|managed
+user_023,26,12.0,1.63,244502.5,"Hyderabad, IN",analytics_dashboard | employee_portal | project_share,macOS-15|Chrome|managed
+user_024,29,11.0,1.18,246672.0,"Mumbai, IN",analytics_dashboard | backup_vault | crm | project_share,Windows-11|Edge|managed
+user_025,29,9.0,1.61,258608.0,"Bengaluru, IN",crm | email | employee_portal,Windows-11|Chrome|managed
+user_026,26,16.0,1.33,302734.0,"Mumbai, IN",email | employee_portal | project_share,Windows-11|Edge|managed
+user_027,23,11.0,1.41,254280.0,"Tokyo, JP",crm | email | project_share,Windows-11|Chrome|managed
+user_028,28,12.5,1.39,205011.0,"Singapore, SG",email | employee_portal | project_share,Windows-11|Chrome|managed
+user_029,25,9.0,1.36,288155.0,"New York, US",analytics_dashboard | employee_portal | project_share,Windows-11|Edge|managed
+user_030,34,12.0,1.37,199390.0,"Delhi, IN",analytics_dashboard | employee_portal | project_share,Windows-11|Edge|managed
+user_031,29,18.0,3.49,282115.0,"Bengaluru, IN",crm | employee_portal | finance_export | project_share,Windows-11|Chrome|managed
+user_032,29,15.0,1.13,265740.0,"Tokyo, JP",analytics_dashboard | backup_vault | email | employee_portal | hr_records,Windows-11|Edge|managed
+user_033,27,12.0,1.31,296641.0,"Singapore, SG",email | employee_portal | project_share,Windows-11|Chrome|managed
+user_034,27,10.0,1.18,292567.0,"Tokyo, JP",crm | email | project_share,macOS-15|Chrome|managed
+user_035,34,8.0,1.45,258392.0,"Bengaluru, IN",analytics_dashboard | crm | domain_controller | employee_portal,Windows-11|Edge|managed
+user_036,30,10.0,1.41,276119.0,"Mumbai, IN",analytics_dashboard | email | employee_portal,macOS-15|Chrome|managed
+user_037,29,17.0,1.38,232902.0,"Hyderabad, IN",email | employee_portal | project_share,macOS-15|Chrome|managed
+user_038,25,13.0,1.23,303194.0,"New York, US",crm | employee_portal | project_share,macOS-15|Chrome|managed
+user_039,24,17.0,1.18,270112.0,"Delhi, IN",crm | email | project_share,Windows-11|Edge|managed
+user_040,24,9.5,1.61,232943.5,"Mumbai, IN",crm | employee_portal | project_share,Windows-11|Edge|managed
+user_041,23,13.0,1.62,235872.0,"Hyderabad, IN",crm | email | project_share,Windows-11|Chrome|managed
+user_042,34,18.0,1.14,271625.5,"Bengaluru, IN",analytics_dashboard | crm | project_share,macOS-15|Chrome|managed
+user_043,27,17.0,1.26,285772.0,"Mumbai, IN",email | employee_portal | project_share,Windows-11|Chrome|managed
+user_044,35,18.0,1.34,354548.0,"Hyderabad, IN",analytics_dashboard | crm | domain_controller | email | finance_share,Windows-11|Edge|managed
+user_045,38,18.0,1.17,253900.0,"Mumbai, IN",analytics_dashboard | email | project_share,Windows-11|Chrome|managed

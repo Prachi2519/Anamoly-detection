@@ -1,0 +1,71 @@
+entity_id,entity_type,home_location,usual_hour,base_ip,normal_resources,auth_methods,device_fingerprint,normal_commands
+user_001,user,"Hyderabad, IN",11,10.36.188.27,employee_portal | analytics_dashboard | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_002,user,"Bengaluru, IN",8,10.24.55.60,analytics_dashboard | employee_portal | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_003,user,"Singapore, SG",11,10.115.150.72,analytics_dashboard | employee_portal | crm,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_004,user,"New York, US",12,10.40.55.246,employee_portal | email | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_005,user,"Mumbai, IN",13,10.217.88.155,crm | employee_portal | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_006,user,"Mumbai, IN",14,10.21.141.76,crm | employee_portal | analytics_dashboard,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_007,user,"Mumbai, IN",8,10.170.58.198,analytics_dashboard | crm | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_008,user,"Singapore, SG",12,10.117.162.214,crm | employee_portal | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_009,user,"Hyderabad, IN",18,10.69.179.240,crm | email | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_010,user,"Hyderabad, IN",10,10.119.97.70,employee_portal | email | crm,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_011,user,"Bengaluru, IN",11,10.211.8.207,analytics_dashboard | email | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_012,user,"Hyderabad, IN",17,10.225.183.81,crm | project_share | email,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_013,user,"Tokyo, JP",10,10.68.35.64,email | project_share | analytics_dashboard,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_014,user,"Singapore, SG",17,10.103.92.57,analytics_dashboard | crm | project_share,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_015,user,"Mumbai, IN",10,10.161.40.203,email | project_share | employee_portal,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_016,user,"Tokyo, JP",16,10.65.248.142,project_share | employee_portal | email,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_017,user,"London, UK",18,10.88.28.76,employee_portal | analytics_dashboard | crm,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_018,user,"London, UK",16,10.196.45.130,project_share | email | analytics_dashboard,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_019,user,"Hyderabad, IN",10,10.96.195.42,employee_portal | crm | project_share,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_020,user,"Tokyo, JP",8,10.29.237.93,analytics_dashboard | employee_portal | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_021,user,"Mumbai, IN",9,10.188.124.209,crm | email | employee_portal,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_022,user,"Tokyo, JP",16,10.43.67.136,employee_portal | email | analytics_dashboard,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_023,user,"Hyderabad, IN",12,10.103.171.167,analytics_dashboard | project_share | employee_portal,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_024,user,"Mumbai, IN",11,10.58.16.87,crm | project_share | analytics_dashboard,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_025,user,"Bengaluru, IN",9,10.182.161.16,employee_portal | email | crm,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_026,user,"Mumbai, IN",16,10.61.71.172,email | employee_portal | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_027,user,"Tokyo, JP",11,10.201.121.207,project_share | email | crm,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_028,user,"Singapore, SG",13,10.109.105.120,project_share | email | employee_portal,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_029,user,"New York, US",9,10.64.49.49,employee_portal | analytics_dashboard | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_030,user,"Delhi, IN",12,10.119.63.224,analytics_dashboard | project_share | employee_portal,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_031,user,"Bengaluru, IN",18,10.139.214.4,employee_portal | project_share | crm,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_032,user,"Tokyo, JP",15,10.55.221.103,employee_portal | email | analytics_dashboard,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_033,user,"Singapore, SG",12,10.238.200.201,employee_portal | email | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_034,user,"Tokyo, JP",10,10.49.75.56,project_share | crm | email,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_035,user,"Bengaluru, IN",8,10.150.122.129,employee_portal | analytics_dashboard | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_036,user,"Mumbai, IN",10,10.18.152.18,analytics_dashboard | email | employee_portal,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_037,user,"Hyderabad, IN",17,10.153.10.159,email | project_share | employee_portal,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_038,user,"New York, US",12,10.53.171.184,employee_portal | project_share | crm,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_039,user,"Delhi, IN",18,10.166.76.118,crm | email | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_040,user,"Mumbai, IN",9,10.138.54.130,crm | employee_portal | project_share,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_041,user,"Hyderabad, IN",13,10.73.40.113,crm | email | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_042,user,"Bengaluru, IN",18,10.210.141.77,analytics_dashboard | crm | project_share,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+user_043,user,"Mumbai, IN",16,10.40.69.73,employee_portal | email | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+user_044,user,"Hyderabad, IN",18,10.163.218.68,analytics_dashboard | email | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+user_045,user,"Mumbai, IN",18,10.109.212.71,analytics_dashboard | project_share | email,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+svc_046,service_account,"Delhi, IN",18,10.68.41.190,api_gateway | backup_service | database_read,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_047,service_account,"Bengaluru, IN",9,10.20.241.227,backup_service | telemetry_queue | database_read,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_048,service_account,"New York, US",17,10.142.37.111,database_read | telemetry_queue | api_gateway,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_049,service_account,"New York, US",8,10.231.91.54,database_read | api_gateway | backup_service,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_050,service_account,"New York, US",16,10.227.223.105,database_read | telemetry_queue | api_gateway,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_051,service_account,"Delhi, IN",14,10.7.45.189,database_read | api_gateway | telemetry_queue,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_052,service_account,"London, UK",10,10.202.179.28,telemetry_queue | database_read | api_gateway,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_053,service_account,"Hyderabad, IN",11,10.210.235.118,backup_service | api_gateway | database_read,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_054,service_account,"Hyderabad, IN",8,10.169.49.103,telemetry_queue | database_read | api_gateway,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+svc_055,service_account,"London, UK",13,10.165.130.103,telemetry_queue | database_read | api_gateway,token | certificate,Linux-Server|service-agent,token_auth | api_read | api_write | logout
+device_056,edge_device,"Delhi, IN",17,10.247.67.10,device_health | telemetry_endpoint | sensor_stream,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_057,edge_device,"New York, US",14,10.156.130.30,telemetry_endpoint | device_health | firmware_status,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_058,edge_device,"Bengaluru, IN",14,10.1.133.237,sensor_stream | device_health | telemetry_endpoint,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_059,edge_device,"New York, US",17,10.81.169.218,firmware_status | sensor_stream | device_health,certificate,IoT-Linux-5.10|MQTT|device,device_connect | telemetry_send | heartbeat
+device_060,edge_device,"Singapore, SG",13,10.104.178.76,telemetry_endpoint | device_health | firmware_status,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_061,edge_device,"Delhi, IN",17,10.146.77.104,firmware_status | telemetry_endpoint | sensor_stream,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_062,edge_device,"Singapore, SG",17,10.156.167.83,telemetry_endpoint | firmware_status | device_health,certificate,IoT-Linux-5.10|MQTT|device,device_connect | telemetry_send | heartbeat
+device_063,edge_device,"Tokyo, JP",10,10.169.21.73,sensor_stream | firmware_status | device_health,certificate,IoT-Linux-5.10|MQTT|device,device_connect | telemetry_send | heartbeat
+device_064,edge_device,"Hyderabad, IN",11,10.38.6.12,device_health | telemetry_endpoint | sensor_stream,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+device_065,edge_device,"Singapore, SG",18,10.148.49.184,firmware_status | sensor_stream | telemetry_endpoint,certificate,EdgeOS-3.2|HTTPS|device,device_connect | telemetry_send | heartbeat
+new_user_001,user,"Mumbai, IN",10,10.14.152.195,email | project_share | employee_portal,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
+new_user_002,user,"Hyderabad, IN",17,10.249.201.4,email | project_share | employee_portal,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+new_user_003,user,"Hyderabad, IN",18,10.107.233.178,analytics_dashboard | email | crm,password | token,Windows-11|Edge|managed,login | open_dashboard | read_resource | logout
+new_user_004,user,"Hyderabad, IN",17,10.5.147.10,email | project_share | employee_portal,password | token,macOS-15|Chrome|managed,login | open_dashboard | read_resource | logout
+new_user_005,user,"Mumbai, IN",16,10.241.13.183,employee_portal | email | project_share,password | token,Windows-11|Chrome|managed,login | open_dashboard | read_resource | logout
